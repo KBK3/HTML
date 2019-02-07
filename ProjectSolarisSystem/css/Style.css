@@ -1,0 +1,56 @@
+table{
+	width: %;
+	border: 4px solid blue;
+	table-layout: auto;
+	background-color: #FFA500;
+}
+th{
+	border: 3px solid blue;
+	font-size: 25px;
+	table-layout: auto;
+}
+td{
+	border: 2px solid red;
+	table-layout: auto;
+	background-color: white;
+	text-align:left;
+	font-family: Tahoma;
+	font-size:20px;
+	text-align: left;
+	line-height: 22px;
+	vertical-align: top;
+}
+th{
+	font-family: Cambria;
+}
+.merc{
+	color:;
+}
+.Ven{
+	color:blue;
+}
+.Ear{
+	color: green;
+}
+.Mar{
+	color:red; 
+}
+.A{
+	background-color: #DDA8DD;
+	font-style: italic;
+}
+.B{
+	background-color: #DDA8DD;
+	font-style: italic;
+}
+.C{
+	background-color: #DDA8DD;
+	font-style: italic; 
+}
+.D{
+	background-color: #DDA8DD;
+	font-style: italic;
+}
+.img{
+	border:2px solid white;
+}

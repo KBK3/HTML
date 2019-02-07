@@ -1,0 +1,14 @@
+h1{
+	font-weight:100%;
+	margin-left:45%;
+	font-family:Cambria;
+}
+table{
+	border:1px solid black;
+}
+th{
+	border:1px solid black;
+}
+.img1{
+	width: 100%;
+}
