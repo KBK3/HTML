@@ -1,0 +1,170 @@
+header{
+	border: 3px solid #000099;
+	background-image: linear-gradient(white,lightblue);
+	text-align: right;
+	padding-bottom: 5%;
+	margin-bottom: 1%;
+}
+h1{
+	color: #000099;
+	font-size: 64px;
+	font-family: arial;
+	font-weight: bold;
+	margin-right: 2%;
+}
+aside{
+	border: 3px solid #000099;
+	background-color: #000099;
+	position: fixed;
+	left: 0.5%;
+	height: 70%;
+	width: 15%;
+}
+.sideul{
+	padding-left: 7px;
+
+}
+.sideli{
+	color: white;
+	text-decoration: underline;
+	list-style: none;
+	font-size: 20px;
+	padding-top: 5px;
+}
+h2{
+	text-align: center;
+	color: #000099;
+	font-family: arial;
+	font-weight: bold;
+	position: fixed;
+	left: 49%;
+}
+.h22{
+	text-align: center;
+	color: #000099;
+	font-family: arial;
+	font-weight: bold;
+	position: fixed;
+	left: 46%;
+	bottom: 35%;
+}
+.a{
+	border: 0px;
+	background-color: lightyellow;
+	text-align: center;
+	margin-right: 35%;
+	margin-left: 35%;
+	position: fixed;
+	bottom: 45%;
+	right: 13%;
+	width: 30%;
+	height: 15%;
+	text-align: justify;	
+}
+.b{
+	border: 0px;
+	background-color: lightyellow;
+	text-align: center;
+	margin-right: 35%;
+	margin-left: 35%;
+	position: fixed;
+	bottom:45%;
+	left: 19%;
+	width: 30%;
+	height: 15%;
+	text-align: justify;
+}
+.c{
+	border: 0px;
+	background-color: lightyellow;
+	text-align: center;
+	margin-right: 35%;
+	margin-left: 35%;
+	position: fixed;
+	bottom:15%;
+	right: 13%;
+	width: 30%;
+	height: 15%;
+	text-align: justify;
+}
+.d{
+	border: 0px;
+	background-color: lightyellow;
+	text-align: center;
+	margin-right: 35%;
+	margin-left: 35%;
+	position: fixed;
+	bottom:15%;
+	left: 19%;
+	width: 30%;
+	height: 15%;
+	text-align: justify;
+}
+.ki{
+	border: 0px;
+	background-color: #000099;
+	margin-right: 1%;
+	margin-left: 1%;
+	color: lightyellow;
+	text-align: center;
+}
+.html{
+	color: orange;
+	font-family: arial;
+	font-weight: bold; 
+}
+.css{
+	color: blue;
+	font-family: arial;
+	font-weight: bold;
+}
+.Bootstrap{
+	color: purple;
+	font-family: arial;
+	font-weight: bold;
+}
+.AngularJS{
+	color: red;
+	font-family: arial;
+	font-weight: bold;
+}
+.logoimg1{
+	position:fixed;
+	right:70%;
+	top:2%;
+}
+.logoimg2{
+	position:fixed;
+	right:78%;
+	top:2%;
+}
+.logoimg3{
+	position:fixed;
+	right:86%;
+	top:2%;
+}
+.logoimg4{
+	position:fixed;
+	right:94%;
+	top:2%;
+}
+.nameli{
+	list-style: none;
+	clear: both;
+	margin-right: 20%;
+	text-decoration:none;
+	display: inline;
+}
+.nameul{
+	clear: both;
+	margin-left: 10%;
+	padding: 0%;
+	width: 10px;
+	display: inline;
+	padding-left: %;
+}
+.img{
+	height: 55px;
+	width: 50px;
+	float: left;
+	padding-top: 45px;
